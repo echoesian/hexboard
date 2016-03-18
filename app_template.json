@@ -273,7 +273,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "http://github.com/ryanj/hexboard",
+                        "uri": "http://github.com/echoesian/hexboard",
                         "ref": "master"
                     }
                 },
